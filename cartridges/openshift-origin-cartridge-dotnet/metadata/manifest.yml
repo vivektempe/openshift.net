@@ -12,6 +12,7 @@ Compatible-Versions: ['0.0.1']
 Cartridge-Vendor: rgen
 #  is used to differentiate cartridges when installed in the system. As an individual, you should use the same unique value for all your cartridges to identify yourself; otherwise, use your company name.
 Display-Name: DotNet 4.5
+Source-Url: https://github.com/vivektempe/openshift.net.git
 Description: "Microsoft DotNet 4.5 Cartrige."
 Version: '4.5'
 # is the default or only version of the software packaged by this cartridge.
